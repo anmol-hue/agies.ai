@@ -1,0 +1,6 @@
+{
+  "name": "tpis.agies",
+  "description": "An offline-first, highly optimized platform for medicine search, drug interaction checking, symptom analysis, and personal health tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
